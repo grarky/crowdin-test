@@ -1,0 +1,8 @@
+#project_identifier: your-project-identifier
+#api_key: 54e01e81--your-api-key--f6a2724a                          #can be found in your project settings page
+#base_path: /home/office/source-code
+
+files:
+  -
+    source: 'src/main/resources/dictionary_en.json'                                    #source files filter
+    translation: 'src/main/resources/%original_file_name%' #where translations live
