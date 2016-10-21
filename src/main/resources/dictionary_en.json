@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "search": {
+      "criteria": {
+        "name": "Name",
+        "namePlaceholder": "Name",
+        "group": "Group",
+        "personId": "Person ID",
+        "personIdPlaceholder": "Person ID",
+        "serialNumber": "Serial number",
+        "serialNumberPlaceholder": "Serial number"
+      },
+      "results": {
+        "id": "ID",
+        "name": "Name",
+        "surname": "Family name",
+        "group": "Group",
+        "serialNumber": "Serial number"
+      }
+    }
+  }
+}
