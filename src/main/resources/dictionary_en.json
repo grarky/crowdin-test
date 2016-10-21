@@ -14,6 +14,7 @@
         "id": "ID",
         "name": "Name",
         "surname": "Family name",
+        "nickname": "Nick name",
         "group": "Group",
         "serialNumber": "Serial number"
       }
