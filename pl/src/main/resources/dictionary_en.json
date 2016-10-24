@@ -1,0 +1,23 @@
+{
+  "fields":{
+    "search":{
+      "criteria":{
+        "name":"Imię",
+        "namePlaceholder":"Imię",
+        "group":"Grupa",
+        "personId":"ID osoby",
+        "personIdPlaceholder":"ID osoby",
+        "serialNumber":"Numer seryjny",
+        "serialNumberPlaceholder":"Numer seryjny"
+      },
+      "results":{
+        "id":"ID osoby",
+        "name":"Imię",
+        "surname":"Nazwisko",
+        "nickname":"Nick osoby",
+        "group":"Grupa",
+        "serialNumber":"Numer seryjny"
+      }
+    }
+  }
+}
