@@ -5,4 +5,4 @@
 files:
   -
     source: 'src/main/resources/dictionary_en.json'                                    #source files filter
-    translation: 'src/main/resources/%original_file_name%' #where translations live
+    translation: 'src/main/resources/dictionary_%two_letters_code%.json' #where translations live
